@@ -1,0 +1,21 @@
+{
+    "system_id": "bike_sharing_system",
+    "model": "BikeSharingBestModel",
+    "model_version": "2",
+    "prediction": 49.18,
+    "unit": "bikes per hour",
+    "features_used": {
+        "mnth": 12,
+        "workingday": 1,
+        "weathersit": 1,
+        "season": 1,
+        "atemp": 0.2727,
+        "hum": 0.65,
+        "weekday": 1,
+        "yr": 1,
+        "holiday": 0,
+        "windspeed": 0.1343,
+        "temp": 0.26,
+        "hr": 23
+    }
+}
